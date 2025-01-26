@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: piedr
+Build-Jdk: 22.0.2
+Created-By: Maven Integration for Eclipse
+Main-Class: vista.Vista
+
