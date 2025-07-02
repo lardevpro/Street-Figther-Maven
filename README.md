@@ -4,7 +4,7 @@ Street-Figther-Maven es una reimplementación en Java (usando Maven y Swing) del
 
 > **Nota:** Este proyecto **no utiliza inteligencia artificial** para ninguna de sus funciones, lógica de juego ni mecánicas internas.
 
-**Este proyecto fue creado y utilizado para promocionar el curso: [Desarrollo de Videojuegos con Java y Maven](https://www.ejemplo-curso.com).**
+**Este proyecto fue creado y utilizado para promocionar el curso: [CFGS DAM].**
 
 ---
 
@@ -16,7 +16,6 @@ Street-Figther-Maven es una reimplementación en Java (usando Maven y Swing) del
 - Gestión de dependencias y ciclo de vida del proyecto con Maven
 - Soporte para recursos multimedia (imágenes y audio MP3)
 - Código estructurado y modular
-- Pruebas automáticas con JUnit
 - Documentación con JavaDoc y comentarios profesionales
 
 
@@ -46,7 +45,7 @@ Street-Figther-Maven es una reimplementación en Java (usando Maven y Swing) del
 
 ## Uso
 
-- Selecciona tu personaje y pelea contra la computadora o contra otro jugador local.
+- Selecciona tu personaje y pelea contra la computadora en modo historia o entrenamiento.
 - Controles por teclado (consulta la documentación interna para detalles).
 - Disfruta de sprites y sonidos inspirados en el juego clásico.
 
@@ -74,7 +73,6 @@ Street-Figther-Maven/
 - Separación por capas y paquetes lógicos: modelo, vista, controlador
 - Recursos externos gestionados en el directorio estándar `src/main/resources`
 - Métodos y clases documentados con JavaDoc
-- Pruebas unitarias para la lógica principal
 - `.gitignore` para excluir archivos generados y sensibles
 - Código limpio, siguiendo convenciones de estilo Java
 - README completo y actualizado
